@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Lesson 02</string>
+    <string name="text_tab_third">Tab 3</string>
+    <string name="text_tab_second">Tab 2</string>
+    <string name="text_tab_first">Tab 1</string>
 </resources>
 
